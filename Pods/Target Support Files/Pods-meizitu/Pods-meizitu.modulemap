@@ -1,0 +1,6 @@
+framework module Pods_meizitu {
+  umbrella header "Pods-meizitu-umbrella.h"
+
+  export *
+  module * { export * }
+}
